@@ -10,8 +10,7 @@
     <div><img src="https://komarev.com/ghpvc/?username=Sherlock0595&style=flat-square&color=blue" alt=""/> </div>
 </div>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="600" height="300""/>
 </h1>
 
 <div align="center">
